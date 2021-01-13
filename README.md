@@ -1,9 +1,3 @@
 # example_repo
 
-Hello world!
-
-*formatting*
-
-```
-code example
-```
+I MADE A CHANGE.
